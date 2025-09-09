@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/40c536782f8244adb57e8bc7d49021e2/artifacts
+end_time: 1757442504968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40c536782f8244adb57e8bc7d49021e2
+run_name: illustrious-deer-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757442504783
+status: 3
+tags: []
+user_id: manoj

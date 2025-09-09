@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2f00dc953d86485caa2a323863c5b14a/artifacts
+end_time: 1757443998435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f00dc953d86485caa2a323863c5b14a
+run_name: blushing-bear-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757443997996
+status: 3
+tags: []
+user_id: manoj

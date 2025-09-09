@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1011838d752542e39d2064aeeea9372b/artifacts
+end_time: 1757443518748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1011838d752542e39d2064aeeea9372b
+run_name: respected-croc-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757443518600
+status: 3
+tags: []
+user_id: manoj

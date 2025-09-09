@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5ad01299ed8d4b7fac55f02914962574/artifacts
+end_time: 1757442918643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ad01299ed8d4b7fac55f02914962574
+run_name: welcoming-sloth-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757442918480
+status: 3
+tags: []
+user_id: manoj

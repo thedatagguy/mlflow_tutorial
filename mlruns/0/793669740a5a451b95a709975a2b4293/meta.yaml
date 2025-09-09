@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/793669740a5a451b95a709975a2b4293/artifacts
+end_time: 1757443871646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 793669740a5a451b95a709975a2b4293
+run_name: ambitious-shrimp-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757443871245
+status: 4
+tags: []
+user_id: manoj

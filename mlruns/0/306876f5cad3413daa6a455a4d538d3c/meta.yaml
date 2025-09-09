@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/306876f5cad3413daa6a455a4d538d3c/artifacts
+end_time: 1757444187908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 306876f5cad3413daa6a455a4d538d3c
+run_name: likeable-ant-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757444187477
+status: 3
+tags: []
+user_id: manoj
