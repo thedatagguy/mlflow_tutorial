@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/427507756043184090/015b6251c2e24f8f8e97c1366863138f/artifacts
+end_time: 1757531115190
+entry_point_name: ''
+experiment_id: '427507756043184090'
+lifecycle_stage: active
+run_id: 015b6251c2e24f8f8e97c1366863138f
+run_name: merciful-gull-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757531114788
+status: 3
+tags: []
+user_id: manoj

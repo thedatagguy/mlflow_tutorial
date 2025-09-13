@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/787356758413743886/4b4f695b9c8e4524a0d7d1390072e7ee/artifacts
+end_time: 1757788812534
+entry_point_name: ''
+experiment_id: '787356758413743886'
+lifecycle_stage: active
+run_id: 4b4f695b9c8e4524a0d7d1390072e7ee
+run_name: sneaky-owl-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757788807199
+status: 4
+tags: []
+user_id: manoj

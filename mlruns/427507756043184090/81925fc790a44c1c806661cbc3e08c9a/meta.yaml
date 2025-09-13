@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/427507756043184090/81925fc790a44c1c806661cbc3e08c9a/artifacts
+end_time: 1757786401888
+entry_point_name: ''
+experiment_id: '427507756043184090'
+lifecycle_stage: active
+run_id: 81925fc790a44c1c806661cbc3e08c9a
+run_name: masked-crane-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757786397698
+status: 3
+tags: []
+user_id: manoj

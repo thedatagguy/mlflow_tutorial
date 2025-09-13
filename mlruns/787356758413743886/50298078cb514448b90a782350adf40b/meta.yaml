@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/787356758413743886/50298078cb514448b90a782350adf40b/artifacts
+end_time: 1757789142562
+entry_point_name: ''
+experiment_id: '787356758413743886'
+lifecycle_stage: active
+run_id: 50298078cb514448b90a782350adf40b
+run_name: angry-lark-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757789137786
+status: 3
+tags: []
+user_id: manoj

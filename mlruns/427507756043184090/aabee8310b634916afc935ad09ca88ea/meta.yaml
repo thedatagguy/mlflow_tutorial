@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/427507756043184090/aabee8310b634916afc935ad09ca88ea/artifacts
+end_time: 1757786283203
+entry_point_name: ''
+experiment_id: '427507756043184090'
+lifecycle_stage: active
+run_id: aabee8310b634916afc935ad09ca88ea
+run_name: dazzling-ram-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757786273470
+status: 3
+tags: []
+user_id: manoj

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/427507756043184090/b4067017ebb445b78bf186454ff9ff66/artifacts
+end_time: 1757786202654
+entry_point_name: ''
+experiment_id: '427507756043184090'
+lifecycle_stage: active
+run_id: b4067017ebb445b78bf186454ff9ff66
+run_name: lyrical-auk-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757786202233
+status: 4
+tags: []
+user_id: manoj
